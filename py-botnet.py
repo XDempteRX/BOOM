@@ -1,4 +1,4 @@
-##Remake By XD3MP:SAMP
+##Tools By Me V1 XD3MP:SAMP
 ##UDP FLOODING EASY DOWN
 import socket
 import struct
