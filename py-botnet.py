@@ -1,5 +1,5 @@
-##Remake By han
-##UDP FLOODING
+##Remake By XD3MP:SAMP
+##UDP FLOODING EASY DOWN
 import socket
 import struct
 import codecs,sys
